@@ -1,3 +1,4 @@
+//This code is comparing the elements of two arrays, myArray and yourArray, to find any matching numbers
 const myArray = [6, 19, 20];
 const yourArray = [19, 81, 2];
 for (let i = 0; i < myArray.length; i++) {
@@ -7,3 +8,4 @@ for (let i = 0; i < myArray.length; i++) {
     }
   }
 }
+
